@@ -1,1 +1,1 @@
-# mymazona
+# myamazona
